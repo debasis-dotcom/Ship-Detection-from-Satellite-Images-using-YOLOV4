@@ -13,3 +13,4 @@ So, to overcome them, any segments overlaps were removed by setting them to back
 Also, the dataset present here is a huge dataset, so we need to handle it by taking fractions of data and building our model.
 Web link to the dataset: https://www.kaggle.com/c/airbus-ship-detection/data
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1806.04331&psig=AOvVaw279Xv22_ur_-cwApFwRyB6&ust=1601579582830000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDn_4vLkewCFQAAAAAdAAAAABAD)
