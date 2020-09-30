@@ -1,0 +1,4 @@
+https://www.kaggle.com/c/airbus-ship-detection/data
+
+Above is the link of the full data taken from data. But using this complete set of data will be computationaly heavy and time taking.
+So keeping that problem in mind I have created a new dataset which is a subset of the complete data, including the bounding box in yolo format.
