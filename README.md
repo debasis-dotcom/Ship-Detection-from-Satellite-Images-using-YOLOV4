@@ -11,6 +11,8 @@ In the dataset, we have satellite images which consist of images containing ship
 In the images containing the ships, we have a slight overlap of object segments when ships were directly next to each other. Ships within and across images may differ in size (sometimes significantly) and be located in open sea, at docks, marinas, etc. And moreover, the satellite images obtained, also have the images with clouds or haze. 
 So, to overcome them, any segments overlaps were removed by setting them to background (i.e., non-ship) encoding. Therefore, some images have a ground truth may be an aligned bounding box with some pixels removed from an edge of the segment. These small adjustments will have a minimal impact on accuracy.
 Also, the dataset present here is a huge dataset, so we need to handle it by taking fractions of data and building our model.
+
+
 Web link to the dataset: https://www.kaggle.com/c/airbus-ship-detection/data
 
 
