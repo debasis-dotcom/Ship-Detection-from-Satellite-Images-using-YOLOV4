@@ -1,6 +1,3 @@
-# Ship-Detection-from-Satellite-Images
-
-### Introduction
 Shipping traffic is growing fast. More ships increase the chances of infractions at sea like environmentally devastating ship accidents, piracy, illegal fishing, drug trafficking, and illegal cargo movement. This has compelled many organizations, from environmental protection agencies to insurance companies and national government authorities, to have a closer watch over the open seas.
 
 In this project, we need to locate ships in the satellite images by putting an aligned bounding box segment around the ships. Given the input image (satellite image), the model gives an output of the same image with bounding boxes on the ships wherever they are located. Also, our next main goal is to identify the ship in the image as quickly and as accurately as possible.
